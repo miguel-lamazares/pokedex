@@ -16,11 +16,7 @@ This is my Pokédex project built with **HTML**, **CSS**, and **JavaScript**, us
 - JavaScript (vanilla)  
 - [PokéAPI](https://pokeapi.co/)
 
-## 📸 Screenshots
-
-> *(Add some screenshots or gifs of the project in action – it really helps others understand your work)*  
-> Example:
-> ![pokedex screenshot](./images/pokedex.gif)
+![pokedex screenshot](./imagens/6636d37ba22a391c6353b1436a81f656.gif)
 
 ## 🛠 How to Run Locally
 
