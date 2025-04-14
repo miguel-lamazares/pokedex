@@ -22,7 +22,7 @@ This is my Pokédex project built with **HTML**, **CSS**, and **JavaScript**, us
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/Dexzn08/pokedex.git
 ```
 2. Open the index.html file in your browser.
 
@@ -38,6 +38,11 @@ Add smooth animations with CSS
 Implement dark mode
 
 Add filters by Pokémon type
+
+## 📫 Contact
+
+GitHub: [github.com/Dexzn08]
+Email: [contatomiguellamazares@gmail.com]
 
 
  
