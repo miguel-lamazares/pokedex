@@ -1,2 +1,47 @@
-# pokedex
+# 🧢 Pokédex - Project using HTML, CSS, and JavaScript
+
+This is my Pokédex project built with **HTML**, **CSS**, and **JavaScript**, using the **PokéAPI** as the data source. The goal was to practice working with APIs, DOM manipulation, and create something that combines my love for Pokémon with web development.
+
+## 🔍 Features
+
+- Search by **Pokémon name** or **number**
+- Displays **animated sprites from Generation V (Black/White)**
+- Shows **name** and **ID** of the Pokémon
+- Simple, retro-style interface inspired by the classic games
+
+## 💡 Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (vanilla)  
+- [PokéAPI](https://pokeapi.co/)
+
+## 📸 Screenshots
+
+> *(Add some screenshots or gifs of the project in action – it really helps others understand your work)*  
+> Example:
+> ![pokedex screenshot](./images/pokedex.gif)
+
+## 🛠 How to Run Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/repo-name.git
+```
+2. Open the index.html file in your browser.
+
+Done! 🎉
+
+## 🚀 Future Ideas
+Display Pokémon types, abilities, and stats
+
+Make the layout fully responsive
+
+Add smooth animations with CSS
+
+Implement dark mode
+
+Add filters by Pokémon type
+
+
  
