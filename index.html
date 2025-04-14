@@ -1,42 +1,44 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokédex</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="icon" href="./imagens/favicon-16x16.png">
-    <link rel="stylesheet" href="'./css/style.css">
+  <!-- Links CSS -->
+  <link rel="stylesheet" href="./CSS/style.css">
 
+  <!-- Link JS -->
+  <script defer src="./JS/script.js"></script>
 
+  <title>Pokédex</title>
 </head>
 <body>
-    <main>
-        <img src="" alt="Pokémon" class="pokemon_img">
-        
-        <h1 class="pokemon_data">
-            <span class="pokemon_number">8</span>
-            <span class="pokemon_name">bug</span>          
-        </h1>
-        <form class="form">
-            <input 
-            type="search"
-            class="input_search"
-            placeholder="name or number"
-            required
-            />
-        </form>
+  
+  <main>
+    <!--Imagem da api-->
+    <img src="#" alt="pokemon" class="pokemon__image">
+    <!--dados da api-->
+    <h1 class="pokemon__data">
+      <span class="pokemon__number"></span> -
+      <span class="pokemon__name"></span>
+    </h1>
+    <!--barra de pesquisa-->
+    <form class="form">
+      <input
+        type="search"
+        class="input__search"
+        placeholder="Name or Number"
+        required
+      />
+    </form>
 
-        <div class="buttons">
-            <button class="button btn-prev">Prev &lt;</button>
-            <button class="button btn-next">Next &gt;</button>
-        </div>
+    <div class="buttons">
+      <button class="button btn-prev">Prev &lt;</button>
+      <button class="button btn-next">Next &gt;</button>
+    </div>
+    <!--imagem de fundo da pokedex-->
+    <img src="./imagens/pokedex.png" alt="pokedex" class="pokedex">
+  </main>
 
-
-        <img src="./imagens/pokedex.png" alt="Pokédex" class="pokedex">
-    </main>
-
-
-    
 </body>
 </html>
