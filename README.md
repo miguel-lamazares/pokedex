@@ -22,7 +22,7 @@ This is my Pokédex project built with **HTML**, **CSS**, and **JavaScript**, us
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Dexzn08/pokedex.git
+git clone https://github.com/miguel-lamazares/pokedex.git
 ```
 2. Open the index.html file in your browser.
 
